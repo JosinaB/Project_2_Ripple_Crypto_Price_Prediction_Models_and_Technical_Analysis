@@ -1,6 +1,4 @@
-# Project_2_Ripple_Crypto_Price_Prediction_Models_and_Technical_Analysis
-Repository for Project 2 in the Miami Fintech Bootcamp (Nov 2021) - Application of Machine Learning to solve a Fintech challenge
-
+# Miami FinTech Bootcamp
 ## Project #2 - Crypto Price Prediction & Technical Analysis
 ​
 ## Team Members:
@@ -33,19 +31,19 @@ The following Jupyter Notebooks were used to build the Price Prediction Models a
 ​
 Note: The notebooks show the final models used for the project, however, multiple features and variables were used to determine which models had the best performance.
 ​
-* [Time-Series ARIMA & GARCH](Code_Files/Crypto_TimeSeries_Forecasting.ipynb)
+[Time-Series ARIMA & GARCH](Code_Files/Crypto_TimeSeries_Forecasting.ipynb)
 ​
-* [Time-Series AutoTS](Code_Files/Crytpo_AutoTS_Forecasting.ipynb)
+[Time-Series AutoTS](Code_Files/Crytpo_AutoTS_Forecasting.ipynb)
 ​
-* [LSTM RNN Model](Code_Files/Crytpo_LSTM_Forecasting.ipynb)
+[LSTM RNN Model](Code_Files/Crytpo_LSTM_Forecasting.ipynb)
 ​
-* [Sentiment Analysis](Code_Files/sentiment_analysis.ipynb)
+[Sentiment Analysis](Code_Files/sentiment_analysis.ipynb)
 ​
-* [Bollinger Bands Indicator](Code_Files/bollinger.ipynb)
+[Bollinger Bands Indicator](Code_Files/bollinger.ipynb)
 ​
-* [MACD & Fibonacci Indicators](Code_Files/MACD_and_Fibonacci_levels.ipynb)
+[MACD & Fibonacci Indicators](Code_Files/MACD_and_Fibonacci_levels.ipynb)
 ​
-* [Moving Averages](Code_Files/XRPewmaFinal.ipynb)
+[Moving Averages](Code_Files/XRPewmaFinal.ipynb)
 - - -
 ​
 # Code Execution - Build Price Predictor and Indicators
